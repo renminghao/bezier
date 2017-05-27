@@ -1,2 +1,2 @@
-# bezier
-绘制N阶贝塞尔曲线
+# webpack-launch
+webpack脚手架
